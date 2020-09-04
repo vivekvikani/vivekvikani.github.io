@@ -4,43 +4,20 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Senior Software Engineer with a background in developing large scale applications keeping latency, reliability, and usability in mind. Interested in bringing product visions to life and contributing to all stages of SDLC. Strong technical ability and a motivation to achieve results in a fast-paced environment.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<h2>Skills</h2>
+<h2>WORK EXPERIENCE</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
+	<li><b>Senior Software Engineer</b>, &nbsp; <a href="https://www.rakuten.co.jp">Rakuten</a> (Apr’ 2018 - Now)
+	<br> Conceptualize and Build horizontal products spanning multiple Rakuten Fintech services using technologies like Blockchain. </li><br>
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+	<li>Led feasibility testing of various Blockchain frameworks using POCs and analyzed various use cases for Fintech services</li>
+	<li>Worked with the senior leadership to chart a vision for and develop a resilient blockchain based platform to gather user's transaction information from various Fintech services</li>
+	<li>Determined the priorities of various stakeholders to generate formal system requirements and detailed project schedule</li>
+	<li>Spearheaded  the design and development of the Blockchain network using Hyperledger Fabric framework, and deployed on Baremetal servers using Docker and Docker Swarm</li>
+	<li>Managed project tasks using JIRA, responded to issues and changes, and presented a weekly progress report to the senior management</li>
+	<li>Mentored and Guided 2 members to design and develop features</li>
+	<li>Conducted thorough testing to improve the quality, resilience and performance using tools like Jmeter</li>
+	<li>Oversaw deployment to production using Docker Swarm and Jenkins</li>
+</ul><br>
