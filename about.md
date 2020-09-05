@@ -10,7 +10,7 @@ layout: page
 
 <ul class="skill-list">
 	<li><b>Senior Software Engineer</b>, &nbsp; <a href="https://www.rakuten.co.jp">Rakuten</a> (Apr’ 2018 - Now)
-	<br> Conceptualize and Build horizontal products spanning multiple Rakuten Fintech services using technologies like Blockchain. </li><br>
+	<br> Conceptualizing and Building horizontal products spanning multiple Fintech services using technologies like Blockchain. </li><br>
 <ul>
 	<li>Led feasibility testing of various Blockchain frameworks using POCs and analyzed various use cases for Fintech services</li>
 	<li>Worked with the senior leadership to chart a vision for and develop a resilient blockchain based platform to gather user's transaction information from various Fintech services</li>
