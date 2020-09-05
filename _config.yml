@@ -1,6 +1,6 @@
 # main text of home
 name: Vivek Vikani
-bio: A Man who travels the world eating noodles
+bio: Let's Build Great Products
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -22,7 +22,7 @@ url: https://vivekvikani.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-57357212-2'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
