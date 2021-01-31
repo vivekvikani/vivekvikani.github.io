@@ -8,6 +8,6 @@ This is a new page on my site, inspired by [Derek Sivers](https://sivers.org/now
 ## What I'm up to right **NOW**:
 
 * Studying for [Professional Scrum Product Owner™](https://www.scrum.org/professional-scrum-product-owner-i-certification).
-* Reading [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) by Donald A. Norman.
+* Reading [Deocde and Conquer](https://www.goodreads.com/en/book/show/20822143-decode-and-conquer) by Lewis C. Lin.
 
-Last Updated: ***October 07, 2020***
+Last Updated: ***Jan 31, 2021***
