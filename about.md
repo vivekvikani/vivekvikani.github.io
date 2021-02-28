@@ -4,12 +4,20 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Senior Software Engineer with a background in developing large scale applications keeping latency, reliability, and usability in mind. Interested in bringing product visions to life and contributing to all stages of SDLC. Strong technical ability and a motivation to achieve results in a fast-paced environment.</p>
 
+<p>Hello! My name is Vivek, and I am a Product Manager at Rakuten. With more than 4 years of experience as a product manager and lead software engineer, I have a proven passion for developing innovative solutions that combine cutting-edge technology with a deep understanding of customers' needs.<br><br>
+
+In my current role at Rakuten Inc., I am responsible for coordinating the full product-development lifecycle, including strategic planning, requirements analysis, QA testing, and product launches. My ability to chart a product vision and promote team collaboration allowed me to lead a successful launch of a blockchain platform within Rakuten.<br><br>
+
+I have also worked as a freelance android developer, building apps for clients as well as launching <a href="https://play.google.com/store/apps/developer?id=Truecent+Technology" target="_blank"> my own android apps</a> to solve problems for traditional industries in India. One in particular, RP Cotton Calculator, led to a significant reduction in monetary losses for cotton gin owners in rural India, by simplifying complex business calculations. This was recognized and was praised by the president of Cotton Association of India.<br><br>
+
+During my university years, my interest in photography and passion for entrepreneurship led me to create a photography platform for amateur photographers in India. This gave me valuable lessons in customer analysis, marketing, design & leading products from ideation to execution. I continue to expand upon those lessons to build better products.</p><br><br>
+
+<! --
 <h2>WORK EXPERIENCE</h2>
 
 <ul class="skill-list">
-	<li><b>Senior Software Engineer</b>, &nbsp; <a href="https://www.rakuten.co.jp">Rakuten</a> (Apr’ 2018 - Now)
+	<li><b>Senior Software Engineer</b>, &nbsp; <a href="https://global.rakuten.com/corp/about/" target="_blank">Rakuten</a> (Apr’ 2018 - Now)
 	<br> Conceptualizing and Building horizontal products spanning multiple Fintech services using technologies like Blockchain. </li><br>
 <ul>
 	<li>Led feasibility testing of various Blockchain frameworks using POCs and analyzed various use cases for Fintech services</li>
@@ -21,3 +29,4 @@ layout: page
 	<li>Conducted thorough testing to improve the quality, resilience and performance using tools like Jmeter</li>
 	<li>Oversaw deployment to production using Docker Swarm and Jenkins</li>
 </ul><br>
+-->
