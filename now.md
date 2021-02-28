@@ -8,6 +8,6 @@ This is a new page on my site, inspired by [Derek Sivers](https://sivers.org/now
 ## What I'm up to right **NOW**:
 
 * Studying for [Professional Scrum Product Owner™](https://www.scrum.org/professional-scrum-product-owner-i-certification).
-* Reading [Deocde and Conquer](https://www.goodreads.com/en/book/show/20822143-decode-and-conquer) by Lewis C. Lin.
+* Reading [Outcomes Over Output](https://www.goodreads.com/book/show/45186993-outcomes-over-output) by Josh Seiden.
 
-Last Updated: ***Jan 31, 2021***
+Last Updated: ***Feb 25, 2021***
