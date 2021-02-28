@@ -13,7 +13,7 @@ I have also worked as a freelance android developer, building apps for clients a
 
 During my university years, my interest in photography and passion for entrepreneurship led me to create a photography platform for amateur photographers in India. This gave me valuable lessons in customer analysis, marketing, design & leading products from ideation to execution. I continue to expand upon those lessons to build better products.</p><br><br>
 
-<! --
+<!--
 <h2>WORK EXPERIENCE</h2>
 
 <ul class="skill-list">
