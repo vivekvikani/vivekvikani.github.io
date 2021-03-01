@@ -11,10 +11,11 @@ In my current role at Rakuten, I am responsible for coordinating the full produc
 
 I have also worked as a freelance android developer, building apps for clients as well as publishing <a href="https://play.google.com/store/apps/developer?id=Truecent+Technology" target="_blank"> my own android apps</a> to solve problems for traditional industries in India. One in particular, RP Cotton Calculator, led to a significant reduction in monetary losses for cotton gin owners in rural India, by simplifying complex business calculations. This was recognized and appreciated by the president of Cotton Association of India.<br><br>
 
-During my university years, my interest in photography and passion for entrepreneurship led me to create a photography platform for amateur photographers in India. This gave me valuable lessons in customer analysis, marketing, design & leading products from ideation to execution. I continue to expand upon those lessons to build better products.</p><br><br>
+During my university years, my interest in photography and passion for entrepreneurship led me to create a photography platform for amateur photographers in India. This gave me valuable lessons in customer analysis, marketing, design & leading products from ideation to execution. I continue to expand upon those lessons to build better products.<br><br>
 
 I love to discuss new ideas and talking to people from different backgrounds.
-You can reach me <a href="https://www.linkedin.com/in/vivekvikani/" target="_blank"> here </a>.
+You can reach me <a href="https://www.linkedin.com/in/vivekvikani/" target="_blank"> here </a>
+</p>
 <!--
 <h2>WORK EXPERIENCE</h2>
 
