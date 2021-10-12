@@ -7,7 +7,6 @@ This is a new page on my site, inspired by [Derek Sivers](https://sivers.org/now
 
 ## What I'm up to right **NOW**:
 
-* Studying for [Professional Scrum Product Owner™](https://www.scrum.org/professional-scrum-product-owner-i-certification).
-* Reading [Outcomes Over Output](https://www.goodreads.com/book/show/45186993-outcomes-over-output) by Josh Seiden.
+* Reading [In the Plex](https://www.goodreads.com/book/show/7841446-in-the-plex) by Steven Levy.
 
-Last Updated: ***Feb 25, 2021***
+Last Updated: ***Oct 12, 2021***
