@@ -8,5 +8,6 @@ This is a new page on my site, inspired by [Derek Sivers](https://sivers.org/now
 ## What I'm up to right **NOW**:
 
 * Reading [In the Plex](https://www.goodreads.com/book/show/7841446-in-the-plex) by Steven Levy.
+* Reading <a href="https://www.goodreads.com/book/show/7841446-in-the-plex" target="_blank">In the Plex</a> by Steven Levy.
 
 Last Updated: ***Oct 12, 2021***
