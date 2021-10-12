@@ -5,9 +5,9 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 
-<p>Hello! My name is Vivek, I am a Product Manager at Rakuten. With more than 4 years of industry experience as a product manager and lead software engineer, I have a proven track record for developing innovative solutions that combine cutting-edge technology with a deep understanding of customers' needs.<br><br>
+<p>Hello! My name is Vivek, I am a Product Manager at <a href="https://startbahn.jp/en/" target="_blank">Startbahn</a>. With more than 5 years of industry experience as a product manager and lead software engineer, I have a proven track record for developing innovative solutions that combine cutting-edge technology with a deep understanding of customers' needs.<br><br>
 
-In my current role at Rakuten, I am responsible for coordinating the full product-development lifecycle, including strategic planning, requirements analysis, QA testing, and product launches. My ability to chart a product vision and promote team collaboration allowed me to lead a successful launch of a blockchain platform within Rakuten.<br><br>
+I was previously working at <a href="https://global.rakuten.com/corp/about/" target="_blank">Rakuten</a>, were I was responsible for coordinating the full product-development lifecycle, including strategic planning, requirements analysis, QA testing, and product launches. My ability to chart a product vision and promote team collaboration allowed me to lead a successful launch of a blockchain platform within Rakuten.<br><br>
 
 I have also worked as a freelance android developer, building apps for clients as well as publishing <a href="https://play.google.com/store/apps/developer?id=Truecent+Technology" target="_blank"> my own android apps</a> to solve problems for traditional industries in India. One in particular, RP Cotton Calculator, led to a significant reduction in monetary losses for cotton gin owners in rural India, by simplifying complex business calculations. This was recognized and appreciated by the president of Cotton Association of India.<br><br>
 
