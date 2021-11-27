@@ -7,6 +7,6 @@ This is a new page on my site, inspired by [Derek Sivers](https://sivers.org/now
 
 ## What I'm up to right **NOW**:
 
-* Reading <a href="https://www.goodreads.com/book/show/7841446-in-the-plex" target="_blank">In the Plex</a> by Steven Levy.
+* Reading <a href="https://www.goodreads.com/book/show/39286958-measure-what-matters" target="_blank">Measure What Matters</a> by John E. Doerr
 
-Last Updated: ***Oct 12, 2021***
+Last Updated: ***Nov 20, 2021***
